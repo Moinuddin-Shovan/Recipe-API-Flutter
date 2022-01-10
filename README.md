@@ -1,6 +1,6 @@
 # recipe_api
 
-A new Flutter project.
+A Flutter Project based on RESTful API where you can explore the recipes by searching, adding/removing them to/from favorite list and different recipe pages functionalities.
 
 ## Getting Started
 
